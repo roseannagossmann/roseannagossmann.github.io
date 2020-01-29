@@ -19,7 +19,7 @@ subtitle                 : ""
 name                     : &name "Roseanna Gossmann" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 # TODO: set url
-#url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://roseannagossmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "royourboat2themoon/royourboat2themoon.github.io"
 # TODO: make teaser and logo
