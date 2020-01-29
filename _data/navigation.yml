@@ -1,0 +1,9 @@
+main:
+  - title: "Talks & Colloquia"
+    url: /talks/
+  - title: "Posters & PDFs"
+    url: /pdfs/
+  - title: "Blog"
+    url: /blog/
+  - title: "About me"
+    url: /about/
